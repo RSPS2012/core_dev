@@ -628,13 +628,13 @@ public final class ItemDefinitions {
 				wieldRequirements.put(Constants.STRENGTH, 40);
 				break;
 			case 7459:
-				wieldRequirements.put(Constants.DEFENSE, 13);
+				wieldRequirements.put(Constants.DEFENSE, 1);
 				break;
 			case 7460:
-				wieldRequirements.put(Constants.DEFENSE, 34);
+				wieldRequirements.put(Constants.DEFENSE, 13);
 				break;
 			case 7461:
-				wieldRequirements.put(Constants.DEFENSE, 41);
+				wieldRequirements.put(Constants.DEFENSE, 40);
 				break;
 			case 7462:
 				wieldRequirements.put(Constants.DEFENSE, 41);
